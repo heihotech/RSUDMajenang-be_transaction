@@ -1,0 +1,66 @@
+sequelize migration:create --name MstProvinceAddColumns
+sequelize model:create --name Clinic --attributes guid:uuid
+sequelize model:create --name ServiceDay --attributes guid:uuid
+sequelize model:create --name RegistrationIcdX --attributes guid:uuid
+
+sequelize model:create --name RegistrationInpatientMedicalSupport --attributes guid:uuid
+sequelize model:create --name ClinicDoctorStaff --attributes guid:uuid
+sequelize model:create --name RegistrationClinicDoctorReference --attributes guid:uuid
+sequelize model:create --name RegistrationEmergencyReference --attributes guid:uuid
+sequelize model:create --name RegistrationinpatientReference --attributes guid:uuid
+
+
+sequelize seed:create --name icdx
+sequelize seed:create --name icdix
+
+      id: {
+        allowNull: false,
+        autoIncrement: true,
+        primaryKey: true,
+        type: Sequelize.INTEGER,
+      },
+      guid: {
+        allowNull: false,
+        type: Sequelize.UUID,
+        defaultValue: Sequelize.UUIDV4,
+      },
+      created_at: {
+        allowNull: false,
+        type: Sequelize.DATE,
+      },
+      updated_at: {
+        allowNull: false,
+        type: Sequelize.DATE,
+      },
+      deleted_at: {
+        allowNull: true,
+        type: Sequelize.DATE,
+      },
+
+
+
+
+      created_by_id: {
+        type: Sequelize.BIGINT,
+        allowNull: true,
+        references: {
+          model: 'users',
+          key: 'id',
+        },
+      },
+      updated_by_id: {
+        type: Sequelize.BIGINT,
+        allowNull: true,
+        references: {
+          model: 'users',
+          key: 'id',
+        },
+      },
+      deleted_by_id: {
+        type: Sequelize.BIGINT,
+        allowNull: true,
+        references: {
+          model: 'users',
+          key: 'id',
+        },
+      },

@@ -1,0 +1,298 @@
+{
+  JENIS: 'Organisasi',
+  NAMA: 'Pokmas Jekek Jaya',
+  DESA: 'Jekek',
+  KECAMATAN: 'Baron',
+  KABUPATEN: 'Kabupaten Nganjuk',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Pokmas Jekek Jaya Nganjuk',
+  NO_REKENING: '1251767214',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Yayasan',
+  NAMA: 'Yayasan Bakti Duta Ummat',
+  DESA: 'Kelurahan Mangempang',
+  KECAMATAN: 'Barru',
+  KABUPATEN: 'Kabupaten Barru',
+  PROVINSI: 'Sulawesi Selatan',
+  NAMA_REKENING_BNI: 'PK1 Bakti Duta Ummat Barru',
+  NO_REKENING: '1251767521',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Lembaga',
+  NAMA: 'LPK Masagena',
+  DESA: 'Kaballangan',
+  KECAMATAN: 'Duampanua',
+  KABUPATEN: 'Kabupaten Pinrang',
+  PROVINSI: 'Sulawesi Selatan',
+  NAMA_REKENING_BNI: 'PK1 LPK Masagena Pinrang',
+  NO_REKENING: '1251767598',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Pemerintah Desa/Kelurahan',
+  NAMA: 'Pemerintah Desa Pendem',
+  DESA: 'Pendem',
+  KECAMATAN: 'Mojogedang',
+  KABUPATEN: 'Kabupaten Karangantar',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Pemdes Pendem Karangantar',
+  NO_REKENING: '1251766492',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Pemerintah Desa/Kelurahan',
+  NAMA: 'Pemerintah Desa Mattirowalie',
+  DESA: 'Mattrowalie',
+  KECAMATAN: 'Tanete Raja',
+  KABUPATEN: 'Kabupaten Barru',
+  PROVINSI: 'Sulawesi Selatan',
+  NAMA_REKENING_BNI: 'PK1 Pemdes Mattirowalie Barru',
+  NO_REKENING: '1251767554',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Lembaga',
+  NAMA: 'Lembaga Pergerakan Berkarya',
+  DESA: 'Karang Mangu',
+  KECAMATAN: 'Sarang',
+  KABUPATEN: 'Kabupaten Rembang',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Lembaga Pergerakan Berkarya Rembang',
+  NO_REKENING: '1251766684',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Yayasan',
+  NAMA: 'Yayasan Nawa Kartika',
+  DESA: 'Gemiringlor',
+  KECAMATAN: 'Nalumsari',
+  KABUPATEN: 'Kabupaten Jepara',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Nawa Kartika Jepara',
+  NO_REKENING: '1251766447',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Pemerintah Desa/Kelurahan',
+  NAMA: 'Pemerintah Desa Durenombo',
+  DESA: 'Durenombon',
+  KECAMATAN: 'Subah',
+  KABUPATEN: 'Kabupaten Batang',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Pemdes Durenombo',
+  NO_REKENING: '1251766130',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Organisasi',
+  NAMA: 'Perkumpulan Tim Relawan Hore',
+  DESA: 'Pujut',
+  KECAMATAN: 'Tersnon',
+  KABUPATEN: 'Kabupaten Batang',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Perkumpulan Tim Relawan Hore Batang',
+  NO_REKENING: '1251766141',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Pemerintah Desa/Kelurahan',
+  NAMA: 'Pemerintah Desa Newung',
+  DESA: 'Newung',
+  KECAMATAN: 'Sukodono',
+  KABUPATEN: 'Kabupaten Sragen',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Pemdes Newung Sragen',
+  NO_REKENING: '1251766786',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Yayasan',
+  NAMA: 'Yayasan Nuruttaufiq',
+  DESA: 'Burmeh',
+  KECAMATAN: 'Burneh',
+  KABUPATEN: 'Kabupaten Bangkalan',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Nuruttaufiq Bangkalan',
+  NO_REKENING: '1251766866',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Pemerintah Desa/Kelurahan',
+  NAMA: 'Pemerintah Desa Gunggung',
+  DESA: 'Gunggung',
+  KECAMATAN: 'Batuan',
+  KABUPATEN: 'Kabupaten Sumenep',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Pemdes Gunggung Sumenep',
+  NO_REKENING: '1251767292',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Organisasi',
+  NAMA: 'Pokmas Teguh Rejo',
+  DESA: 'Sumberteguh',
+  KECAMATAN: 'Kudu',
+  KABUPATEN: 'Kabupaten Jombang',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Pokmas Teguh Rejo Jombang',
+  NO_REKENING: '1251766980',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Yayasan',
+  NAMA: 'Yayasan Annidlomiyah',
+  DESA: 'Wonoerjo',
+  KECAMATAN: 'Kaliwungu',
+  KABUPATEN: 'Kabupaten Kendal',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Annidlomiyah Kendal',
+  NO_REKENING: '1251766516',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Lembaga',
+  NAMA: 'Pengurus Ranting Nahdiatul Ulama Desa Deles',
+  DESA: 'Deles',
+  KECAMATAN: 'Bawang',
+  KABUPATEN: 'Kabupaten Batang',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Ranting NU Desa Deles Batang',
+  NO_REKENING: '1251766107',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Pemerintah Desa/Kelurahan',
+  NAMA: 'Pemerintah Desa Nglebur',
+  DESA: 'Nglebur',
+  KECAMATAN: 'Jiken',
+  KABUPATEN: 'Kabupaten blora',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Pemdes Nglebur Blora',
+  NO_REKENING: '1251766209',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Organisasi',
+  NAMA: 'Sangurara Tadulako',
+  DESA: 'Kelurahan Lere',
+  KECAMATAN: 'Palu Barat',
+  KABUPATEN: 'Kota Palu',
+  PROVINSI: 'Sulawesi Tengah',
+  NAMA_REKENING_BNI: 'PK1 Sangurara Tadulako Kota Palu',
+  NO_REKENING: '1251767699',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Organisasi',
+  NAMA: 'Kelompok Masyarakat Sahabat Muda Batang Batang',
+  DESA: 'Batang Batang Laok',
+  KECAMATAN: 'Batang Batang',
+  KABUPATEN: 'Kabupaten Sumenep',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Pokmas Sahabat Muda Batang Batang Sumenep',
+  NO_REKENING: '1251767281',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Pemerintah Desa/Kelurahan',
+  NAMA: 'Pemerintah Desa Tiogoretno',
+  DESA: 'Tiogoreton',
+  KECAMATAN: 'Brondong',
+  KABUPATEN: 'Kabupaten Lamongan',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Pemdes Tiogoretno Lamongan',
+  NO_REKENING: '1251767009',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Organisasi',
+  NAMA: 'Berkah Kesumo',
+  DESA: 'Banymeneng',
+  KECAMATAN: 'Mranggen',
+  KABUPATEN: 'Kabupaten Demak',
+  PROVINSI: 'Jawa Tengah',
+  NAMA_REKENING_BNI: 'PK1 Berkah Kesumo Demak',
+  NO_REKENING: '1251766276',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Lembaga',
+  NAMA: 'LKP Pemuda Khatulistiwa',
+  DESA: 'Kelurahan Pengawu',
+  KECAMATAN: 'Palu Selatan',
+  KABUPATEN: 'Kota Palu',
+  PROVINSI: 'Sulawesi Tengah',
+  NAMA_REKENING_BNI: 'PK1 LKP Pemuda Khatulistiwa Kota Palu',
+  NO_REKENING: '1251767702',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Yayasan',
+  NAMA: 'Pondok Pesantren Hidayatul Mubtadiin',
+  DESA: 'Drenges',
+  KECAMATAN: 'Kertosono',
+  KABUPATEN: 'Kabupaten Nganjuk',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Ponpes Hidayatul Mubtadiin Nganjuk',
+  NO_REKENING: '1251767236',
+  NOMINAL: '100000000',
+  FASE: 1
+}
+foundVillageOnly not found!
+{
+  JENIS: 'Yayasan',
+  NAMA: 'Pondok Pesantren Hidayatul Athfal',
+  DESA: 'Duren',
+  KECAMATAN: 'Pilangkenceng',
+  KABUPATEN: 'Kabupaten Madiun',
+  PROVINSI: 'Jawa Timur',
+  NAMA_REKENING_BNI: 'PK1 Ponpes Hidayatul Athfal Madiun',
+  NO_REKENING: '1251767134',
+  NOMINAL: '100000000',
+  FASE: 1
+}
